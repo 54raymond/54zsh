@@ -12,6 +12,7 @@ $ chsh -s /bin/zsh
 ##Mac
 ```bash
 $ brew install zsh
+$ brew install coreutils
 $ sudo sh -c "echo '/usr/local/bin/zsh' >> /etc/shells"
 $ curl -L https://raw.github.com/lxyu/lxzsh/master/tools/install.sh | sh
 $ chsh -s /usr/local/bin/zsh
